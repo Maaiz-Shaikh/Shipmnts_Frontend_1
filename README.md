@@ -1,16 +1,18 @@
-# task
+# Weather Application
+## This is a weather app built with Flutter. It allows users to get the weather forecast for their current location or any other location in the world.
 
-A new Flutter project.
+### Requirements
+- Flutter SDK
+- Dart SDK
+- An API key from OpenWeatherMap
+  
+### Installation
+- Clone the repository from GitHub.
+- Install the dependencies using the following command: `flutter pub get`
+- Open the project in your IDE and run it.
+  
+### Usage
+To use the app, simply enter the name of the city or location you want to get the weather forecast for in the search bar. The app will then display the current weather conditions.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Credits
+This app uses the OpenWeatherMap API to get the weather data. You can get an API key from their website.
